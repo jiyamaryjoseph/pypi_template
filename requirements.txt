@@ -1,0 +1,6 @@
+ipywidgets==8.0.2 #IPyWidgets is a Python library of HTML interactive widgets for Jupyter notebook. Each UI element in the library can respond to events and invokes specified event handler functions. They enhance the interactive feature of Jupyter notebook application.
+notebook==6.4.12
+py-youtube==1.1.7 # A Python wrapper around for YouTube Data API V3.
+ensure==1.0.2 # ensure is a set of simple assertion helpers that let you write more expressive, literate, concise, and readable Pythonic code for validating conditions
+mkdocs-material # MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Material for MkDocs is a theme for MkDocs, a static site generator geared towards (technical) project documentation.This will automatically install compatible versions of all dependencies: MkDocs, Markdown, Pygments and Python Markdown Extensions
+-e .

@@ -1,0 +1,14 @@
+ipywidgets==8.0.2
+notebook==6.4.12
+py-youtube==1.1.7
+ensure==1.0.2
+mkdocs-material
+
+# dev requirements -
+
+pytest==7.1.3  # The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
+tox==3.25.1 # tox is a command-line driven automated testing tool for Python, based on the use of virtualenv 
+black==22.8.0 #  If you want to format Jupyter Notebooks, install with pip install 'black[jupyter]' .
+flake8==5.0.4 # It is very important to install Flake8 on the correct version of Python for your needs.
+mypy==0.971 # Mypy is a static type checker for Python 3. If you sprinkle your code with type annotations, mypy can type check your code and find common bugs.
+-e .
