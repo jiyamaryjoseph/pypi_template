@@ -1,1 +1,1 @@
-# This is the IPYNB python package.
+# This is the PYPI python package.
